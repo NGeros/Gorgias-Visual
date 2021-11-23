@@ -2,6 +2,7 @@
 
 Displays a Directed Graph visualization of the Gorgias' results
 
+![python_2021-11-16_20-41-57](https://user-images.githubusercontent.com/94646358/143017594-5263c828-1e17-4631-837e-96f42d56633b.png)
 
 
 # Installation
